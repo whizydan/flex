@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "694648590920",
+    "firebase_url": "https://flex-49dfe-default-rtdb.firebaseio.com",
+    "project_id": "flex-49dfe",
+    "storage_bucket": "flex-49dfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694648590920:android:4499f914b76df4c7d0fe7d",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh2K8SceEfgnJ4hNHW8QTm4CJIPa0LmDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
